@@ -1,6 +1,7 @@
 # Movie-Rating Web 
 
 This is a movie rating web applications create by Next.js 14 (app directory) and NextUI (v2).
+![demo](https://reccloudsz.oss-cn-shenzhen.aliyuncs.com/tasks/output/media_conversion/2684f71e-8ea4-4206-b556-dd68c6dd13c6.gif?x-oss-credential=LTAI5tGjJnh66c1txANiRBQN/20240811/cn-shenzhen/oss/aliyun_v4_request&x-oss-date=20240811T040804Z&x-oss-expires=1800&x-oss-signature=b75f943b11ba40960077ca4e6d0751c26f8dbde3f445bc6197613a279fbd6692&x-oss-signature-version=OSS4-HMAC-SHA256)
 
 ## Backgroud
 
